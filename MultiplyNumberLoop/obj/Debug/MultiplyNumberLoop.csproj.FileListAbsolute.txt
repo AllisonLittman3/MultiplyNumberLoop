@@ -1,0 +1,7 @@
+c:\users\allis\documents\visual studio 2017\Projects\MultiplyNumberLoop\MultiplyNumberLoop\bin\Debug\MultiplyNumberLoop.exe.config
+c:\users\allis\documents\visual studio 2017\Projects\MultiplyNumberLoop\MultiplyNumberLoop\bin\Debug\MultiplyNumberLoop.exe
+c:\users\allis\documents\visual studio 2017\Projects\MultiplyNumberLoop\MultiplyNumberLoop\bin\Debug\MultiplyNumberLoop.pdb
+c:\users\allis\documents\visual studio 2017\Projects\MultiplyNumberLoop\MultiplyNumberLoop\obj\Debug\MultiplyNumberLoop.csprojResolveAssemblyReference.cache
+c:\users\allis\documents\visual studio 2017\Projects\MultiplyNumberLoop\MultiplyNumberLoop\obj\Debug\MultiplyNumberLoop.csproj.CoreCompileInputs.cache
+c:\users\allis\documents\visual studio 2017\Projects\MultiplyNumberLoop\MultiplyNumberLoop\obj\Debug\MultiplyNumberLoop.exe
+c:\users\allis\documents\visual studio 2017\Projects\MultiplyNumberLoop\MultiplyNumberLoop\obj\Debug\MultiplyNumberLoop.pdb
